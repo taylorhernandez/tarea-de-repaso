@@ -1,0 +1,5 @@
+# tarea-de-repaso
+int valorA==100;
+  if (valorA>100);
+  console.writerLine ("valorA cumple la expresion Evaluada");
+  console.writerLine()
